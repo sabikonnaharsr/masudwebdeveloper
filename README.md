@@ -3,10 +3,10 @@
 #### I am Web developer
 
 
-I am a  Web Developer. I am learning now MERN. My dream becomes a Full stack Web Developer. Then I wanna start My own Business.
+##### I am learning now MERN. My dream becomes a Full stack Web Developer. Then I wanna start My own Business.
 
-Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE \
-Second Skills: MONGODB / EXPRESS / REACT / NODE JS
+* Primary Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE \
+* Second Skills: MONGODB / EXPRESS / REACT / NODE JS
 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on github 
