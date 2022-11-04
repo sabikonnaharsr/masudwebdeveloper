@@ -18,7 +18,7 @@
 ##
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about [message](01796682951) 
+- 💬 Ask me about [message](https://www.facebook.com/messages/t/100009612967957) 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/Masudrana2143/) 
 
 
