@@ -5,7 +5,7 @@
 
 ##### I am learning now MERN. My dream becomes a Full stack Web Developer. Then I wanna start My own Business.
 
-* Primary Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE \
+* Primary Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE 
 * Second Skills: MONGODB / EXPRESS / REACT / NODE JS
 
 - 🌱 I’m currently learning MERN 
