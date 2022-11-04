@@ -5,8 +5,16 @@
 
 ##### I am learning now MERN. My dream becomes a Full stack Web Developer. Then I wanna start My own Business.
 
-* Primary Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE 
-* Second Skills: MONGODB / EXPRESS / REACT / NODE JS
+## For FrontEnd
+
+* Primary Skills: HTML / CSS / Git & Github 
+*  CSS FramWork : Bootstrap / Tailwind 
+*  Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite
+*  JavaScript with mordern js ES6 / API / DEV Tools & Debuging
+*  JaraScript Library: React.js
+
+## For BackEnd
+* Second Skills: MongoDB / Express / React / NodeJS
 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on github 
