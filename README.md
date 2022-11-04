@@ -5,7 +5,7 @@
 
 I am a  Web Developer. I am learning now React. My dream becomes a Full stack Web Developer. Then I want to start My own Business.
 
-Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE /
+Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB / FIREBASE \
 Second Skills: MONGODB / EXPRESS / REACT / NODE JS
 
 - 🌱 I’m currently learning Ract js 
