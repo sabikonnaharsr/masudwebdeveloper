@@ -9,12 +9,15 @@
 
 * Primary Skills: HTML / CSS / Git & Github 
 *  CSS FramWork : Bootstrap / Tailwind 
-*  Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite
+*  Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite / HyperUi
 *  JavaScript with mordern js ES6 / API / DEV Tools & Debuging
 *  JaraScript Library: React.js
 
 ## For BackEnd
 * Second Skills: MongoDB / Express / React / NodeJS
+
+## For Authentication
+* Firebase
 ##
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on github 
