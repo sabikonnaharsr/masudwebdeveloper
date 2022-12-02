@@ -1,6 +1,6 @@
 # <h1 align="center">👨‍💻 Welcome Programmer</h1>
 ![I am Web developer](https://media-exp1.licdn.com/dms/image/C5616AQGrM62Zf-7Q7w/profile-displaybackgroundimage-shrink_350_1400/0/1664084348545?e=1671062400&v=beta&t=Y7ZVpGP3PqKvUxHo_ExFF9IVMF0zCMcVsRDP9TMnzqI)
-### Hi there 👋, I am Masud Rana
+### Hi there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I am Masud Rana
 <h2 align="center">A passionate Full Stack web developer from Bangladesh</h2>
 
 # ***** SKILLS *****
